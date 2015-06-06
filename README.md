@@ -1,4 +1,4 @@
 # my-first-blog
 for djangogirls tutorial
 
->http://yubor.pythonanywhere.com/
+`http://yubor.pythonanywhere.com/`
